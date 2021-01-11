@@ -105,7 +105,7 @@ const updateEmployee = () => {
                 message: "Which employee do you want to update?",
                 choices: employeeOptions
             })
-           
+
     }
-    runUpdateSearch();  
+    runUpdateSearch();
 }
